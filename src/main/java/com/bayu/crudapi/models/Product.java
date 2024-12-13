@@ -2,7 +2,7 @@ package com.bayu.crudapi.models;
 
 import jakarta.persistence.*;
 
-import javax.xml.crypto.Data;
+
 import java.util.Date;
 
 @Entity
